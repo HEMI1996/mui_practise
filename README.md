@@ -1,3 +1,10 @@
+# How to run project?
+
+Start react app => npm start
+Start json server => json-server --watch db.json --port 8000
+json-server is installed globally
+if gives error then install json-server and run
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
